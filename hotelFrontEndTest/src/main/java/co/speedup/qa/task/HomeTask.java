@@ -22,6 +22,7 @@ public class HomeTask implements Task {
         actorHome.attemptsTo(Click.on(LOCATION_HOME_NASSAU.of(homeModelInstance.getLocation())));
         actorHome.attemptsTo(Enter.theValue(homeModelInstance.getCheckIn()).into(CHECK_IN_CLICK));
         actorHome.attemptsTo(Click.on(CHECK_OUT_CLICK), RobotDelete.on() ,Enter.theValue(homeModelInstance.getCheckOut()).into(CHECK_OUT_CLICK));
+        actorHome.attemptsTo(Click.on(SEARCH_BUTTON));
     }
 
     public static HomeTask withData(HomeModel homeModel){

@@ -21,4 +21,8 @@ public class HomeUserInterface {
             .the("Check Out")
             .locatedBy("/html/body/div/div/div/div[2]/div[1]/div/div/div[1]/div/div[1]/div[2]/div[1]/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div/input");
 
+    public static final Target SEARCH_BUTTON = Target
+            .the("Search button")
+            .locatedBy("//div[@aria-label='SEARCH']//div[@class='dx-button-content']");
+
 }

@@ -3,9 +3,9 @@
 Author: Miguel Hugo Alcántara Pérez (CTFL)
 ***
 Automation of matching to the requested endpoints along with their method (POST, PUT, GET, DELETE).
-##Background: https://www.volotea.com/es/
+## Background: https://www.volotea.com/es/
 
-## Starting: With this project we want to perform automated tests based on the SOLID principle, for better performance, BDD with Maven dependency manager is used in the reports. These tests will be in Frontend
+##Starting: With this project we want to perform automated tests based on the SOLID principle, for better performance, BDD with Maven dependency manager is used in the reports. These tests will be in Frontend
 ***
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Automation of matching to the requested endpoints along with their method (POST,
 [FeatureExecution] (#feature-execution)
 [ExecuteClassJava] (#execute-java-class)
 ***
-# general-information The automation of the request will be carried out by implementing various endpoints using the methods get, post; related to the backend applying a certain design pattern, environment variables and various tools that will help us in creating it. All this was done on a personal machine with the features: MSI, Windows 10, Intel Core i7 10Th, 32 GB RAM.
+#general-information The automation of the request will be carried out by implementing various endpoints using the methods get, post; related to the backend applying a certain design pattern, environment variables and various tools that will help us in creating it. All this was done on a personal machine with the features: MSI, Windows 10, Intel Core i7 10Th, 32 GB RAM.
 ***
 ### tools
 A list of the tools that will be used in the project: • [Java JDK] (https://www.oracle.com/mx/java/technologies/javase/javase8-archive-downloads.html): Version 1.8 • [Maven] (https://maven.apache.org/download.cgi): Version 3.8.6 • [Intelling IDE] (https://www.jetbrains.com/es-es/idea/download/#section=windows): Version 2022.2.1 • [Git] (https://git-scm.com/download/win): Version 2.37.2###instalación • Cucumber • BDD • Serenity • design pattern: screen play architecture

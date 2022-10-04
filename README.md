@@ -3,7 +3,7 @@
 Author: Miguel Hugo Alcántara Pérez (CTFL)
 ***
 Automation of matching to the requested endpoints along with their method (POST, PUT, GET, DELETE).
-## Background: https://www.volotea.com/es/
+## Background: https://js.devexpress.com/Demos/DXHotels/#home
 
 ##Starting: With this project we want to perform automated tests based on the SOLID principle, for better performance, BDD with Maven dependency manager is used in the reports. These tests will be in Frontend
 ***

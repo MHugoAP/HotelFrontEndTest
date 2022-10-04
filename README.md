@@ -33,7 +33,7 @@ To install Git, we execute the .exe file, follow the steps requested from it and
 ### project-structure
 The project will have this structure
 
-        voloteaFront > src > main > java > com.speedup.qa > interactions
+        hotelFrontEndTest > src > main > java > com.speedup.qa > interactions
 				                                          > models > class.java (all the .java classes that will have the constructors, getter and setter)
 
                                                           > questions > class.javs (all the .java classes that will have the objective of validating and/or verifying that the tasks are correct)
